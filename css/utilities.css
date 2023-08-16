@@ -1,6 +1,6 @@
 /* Text Colors */
 .text-primary{
-    color: #28a750;
+    color: #ff00ff;
 }
 .text-secondary{
     color: #0284d0;
@@ -12,7 +12,7 @@
     display: inline-block;
     padding: 10px 30px;
     color: #fff;
-    background-color: #28a750;
+    background-color: #ff00ff;
     border: none;
     border-radius: 5px;
 }
@@ -22,7 +22,7 @@
 }
 
 .btn-primary, .bg-primary{
-    background-color: #28a750;
+    background-color: #ff00ff;
     color: #fff;
 }
 .btn-secondary, .bg-secondary{
